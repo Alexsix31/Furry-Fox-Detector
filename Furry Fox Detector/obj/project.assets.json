@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EliseyPC\\source\\repos\\Furry Fox Detector\\Furry Fox Detector\\Furry Fox Detector.csproj",
+      "projectUniqueName": "C:\\Users\\EliseyPC\\source\\repos\\Furry-Fox-Detector\\Furry Fox Detector\\Furry Fox Detector.csproj",
       "projectName": "Furry Fox Detector",
-      "projectPath": "C:\\Users\\EliseyPC\\source\\repos\\Furry Fox Detector\\Furry Fox Detector\\Furry Fox Detector.csproj",
+      "projectPath": "C:\\Users\\EliseyPC\\source\\repos\\Furry-Fox-Detector\\Furry Fox Detector\\Furry Fox Detector.csproj",
       "packagesPath": "C:\\Users\\EliseyPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EliseyPC\\source\\repos\\Furry Fox Detector\\Furry Fox Detector\\obj\\",
+      "outputPath": "C:\\Users\\EliseyPC\\source\\repos\\Furry-Fox-Detector\\Furry Fox Detector\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
