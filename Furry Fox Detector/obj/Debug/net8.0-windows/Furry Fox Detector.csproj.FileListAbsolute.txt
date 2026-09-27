@@ -1,0 +1,17 @@
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\bin\Debug\net8.0-windows\Furry Fox Detector.exe
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\bin\Debug\net8.0-windows\Furry Fox Detector.deps.json
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\bin\Debug\net8.0-windows\Furry Fox Detector.runtimeconfig.json
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\bin\Debug\net8.0-windows\Furry Fox Detector.dll
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\bin\Debug\net8.0-windows\Furry Fox Detector.pdb
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\obj\Debug\net8.0-windows\Furry Fox Detector.csproj.GenerateResource.cache
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\obj\Debug\net8.0-windows\Furry Fox Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\obj\Debug\net8.0-windows\Furry Fox Detector.AssemblyInfoInputs.cache
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\obj\Debug\net8.0-windows\Furry Fox Detector.AssemblyInfo.cs
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\obj\Debug\net8.0-windows\Furry Fox Detector.csproj.CoreCompileInputs.cache
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\obj\Debug\net8.0-windows\Furry Fox Detector.dll
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\obj\Debug\net8.0-windows\refint\Furry Fox Detector.dll
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\obj\Debug\net8.0-windows\Furry Fox Detector.pdb
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\obj\Debug\net8.0-windows\Furry Fox Detector.genruntimeconfig.cache
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\obj\Debug\net8.0-windows\ref\Furry Fox Detector.dll
+C:\Users\EliseyPC\source\repos\Furry Fox Detector\Furry Fox Detector\obj\Debug\net8.0-windows\GayFoxFemboyDetector.TestForm.resources
